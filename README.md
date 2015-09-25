@@ -1,0 +1,1 @@
+Mouseover to see flights originating at the specified airport. The cool thing about this technique is that the interaction requires zero JavaScript — it’s all done in CSS using the :hover state to toggle visibility of an airport’s associated outgoing flight routes.
